@@ -1,0 +1,22 @@
+# Caches de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Temporales de Excel y del sistema
+~$*.xls*
+.~lock.*#
+Thumbs.db
+.DS_Store
+
+# Los modelos aprobados de terceros NO van al repositorio.
+# Varios scripts los leen desde el mismo directorio; ver README.
+MODEF_PTAR_Cajamarca.xlsm
+Modelo_Hitos_Funcionales.xlsm
+*.xlsm
+
+# Las normas NIIF/CINIIF tal como las publica el organismo: material de
+# terceros, no es obra de este proyecto.
+normas/

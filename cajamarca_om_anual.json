@@ -1,0 +1,293 @@
+{
+ "unidad": "S/ miles a precios constantes de diciembre de 2025",
+ "fuente": "MODEF_PTAR_Cajamarca.xlsm: Costos!17/26/30/32 (malla anual) y EEPPGG!18/19/20/22 (malla trimestral, agregada por EEPPGG!5)",
+ "nota": "`OPEX proyecto` tiene dos mallas: filas 19-41 mensuales, filas 127-200 trimestrales (D..DE = 106 trimestres). Sumar una fila trimestral sobre columnas mensuales triplica el resultado.",
+ "anios": {
+  "2030": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 14984.55,
+   "gastos_spv": 1782.0,
+   "seguros": 178.2,
+   "fianzas": 191.58,
+   "fideicomiso": 25,
+   "supervision_sunass": 116.18,
+   "om_total_sin_supervision": 25091.66
+  },
+  "2031": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 15151.19,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 766.32,
+   "fideicomiso": 100,
+   "supervision_sunass": 823.63,
+   "om_total_sin_supervision": 26442.66
+  },
+  "2032": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 15290.07,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 627.06,
+   "fideicomiso": 100,
+   "supervision_sunass": 826.94,
+   "om_total_sin_supervision": 26442.28
+  },
+  "2033": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 15401.16,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 835.21,
+   "om_total_sin_supervision": 26135.6
+  },
+  "2034": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 15512.26,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 843.37,
+   "om_total_sin_supervision": 26246.7
+  },
+  "2035": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 15623.35,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 845.97,
+   "om_total_sin_supervision": 26357.79
+  },
+  "2036": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 15734.45,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 859.32,
+   "om_total_sin_supervision": 26468.89
+  },
+  "2037": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 16401.03,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 873.02,
+   "om_total_sin_supervision": 27135.47
+  },
+  "2038": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 16539.9,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 883.78,
+   "om_total_sin_supervision": 27274.34
+  },
+  "2039": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 16678.77,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 895.67,
+   "om_total_sin_supervision": 27413.21
+  },
+  "2040": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 16845.42,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 899.64,
+   "om_total_sin_supervision": 27579.86
+  },
+  "2041": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 16984.29,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 913.33,
+   "om_total_sin_supervision": 27718.73
+  },
+  "2042": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 17150.93,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 920.75,
+   "om_total_sin_supervision": 27885.37
+  },
+  "2043": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 17289.8,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 926.83,
+   "om_total_sin_supervision": 28024.24
+  },
+  "2044": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 17456.45,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 942.75,
+   "om_total_sin_supervision": 28190.89
+  },
+  "2045": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 17623.09,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 830.96,
+   "om_total_sin_supervision": 28357.53
+  },
+  "2046": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 17789.74,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 495.51,
+   "om_total_sin_supervision": 28524.18
+  },
+  "2047": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 17956.38,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 506.22,
+   "om_total_sin_supervision": 28690.82
+  },
+  "2048": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 18123.03,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 510.75,
+   "om_total_sin_supervision": 28857.47
+  },
+  "2049": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 18289.67,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 531.03,
+   "om_total_sin_supervision": 29024.11
+  },
+  "2050": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 18484.09,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 536.28,
+   "om_total_sin_supervision": 29218.53
+  },
+  "2051": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 18678.51,
+   "gastos_spv": 1782.0,
+   "seguros": 712.82,
+   "fianzas": 209.29,
+   "fideicomiso": 100,
+   "supervision_sunass": 548.64,
+   "om_total_sin_supervision": 29412.95
+  },
+  "2052": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 18678.51,
+   "gastos_spv": 1782.0,
+   "seguros": 534.61,
+   "fianzas": 575.56,
+   "fideicomiso": 275,
+   "supervision_sunass": 419.77,
+   "om_total_sin_supervision": 29776.01
+  },
+  "2053": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 18678.51,
+   "gastos_spv": 1782.0,
+   "seguros": 0,
+   "fianzas": 0,
+   "fideicomiso": 0,
+   "supervision_sunass": 0,
+   "om_total_sin_supervision": 28390.84
+  },
+  "2054": {
+   "fijos_con_reposiciones": 7930.33,
+   "reposiciones": 2134.45,
+   "variables": 18678.51,
+   "gastos_spv": 1782.0,
+   "seguros": 0.0,
+   "fianzas": 0.0,
+   "fideicomiso": 0.0,
+   "supervision_sunass": 0.0,
+   "om_total_sin_supervision": 28390.84
+  }
+ },
+ "aviso_2030": "El ano 2030 mezcla convenciones y NO debe usarse como un ano completo: `Costos!17/26/30/32` traen la TASA anual del ano (no prorrateada) mientras seguros, fianzas y fideicomiso vienen de `EEPPGG`, que solo tiene el trimestre de operacion efectivo (la operacion arranca en oct-2030). Lo mismo en 2052-2054 por el cierre de la concesion. Para el primer ano de operacion usar la ventana oct-2030 a set-2031, que da 26,401.00.",
+ "primer_ano_operacion_oct2030_set2031": {
+  "fijos_con_reposiciones": 7930.33,
+  "reposiciones": 2134.45,
+  "variables": 15109.53,
+  "gastos_spv": 1782.0,
+  "seguros": 712.82,
+  "fianzas": 766.32,
+  "fideicomiso": 100.0,
+  "total": 26401.0
+ }
+}

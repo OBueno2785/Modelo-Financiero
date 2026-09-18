@@ -1,0 +1,39 @@
+{
+ "fuente": "MEF, MMM 2027-2030, cuadros estadisticos C-01 (subido por Oscar 2026-09-17)",
+ "anios": [
+  2026,
+  2027,
+  2028,
+  2029,
+  2030
+ ],
+ "precios_var_pct": [
+  3.85,
+  2.53,
+  2.5,
+  2,
+  2
+ ],
+ "tc_promedio": [
+  3.3943703596111483,
+  3.35,
+  3.3718352141203702,
+  3.4,
+  3.4
+ ],
+ "tc_fin_periodo": [
+  3.35,
+  3.35,
+  3.4,
+  3.4,
+  3.4
+ ],
+ "pbi_var_real_pct": [
+  3.3991989077419618,
+  3.435568510116866,
+  3.964443815805609,
+  3.9789902620131414,
+  3.9629298221020974
+ ],
+ "nota": "'precios' es el IPC del MMM. El reajuste contractual de los dos libros corre por IPM, que es otro indice: no son intercambiables."
+}
