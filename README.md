@@ -61,6 +61,9 @@ con un caso real para que se vea la forma esperada.
 - **`fuentes/`**: datos de mercado en caché — betas de Damodaran, curva cupón cero de
   la SBS y el cuadro del MMM 2027–2030 del MEF, cada uno con su fecha y su fuente
   declaradas dentro del archivo.
+- **`normas/`**: las NIIF y CINIIF en PDF y en texto plano, tal como las publica el
+  organismo, subidas a pedido de Oscar el 18-set-2026. Son la referencia contable del
+  modelo, sobre todo la CINIIF 12, que define los dos regímenes.
 - **`LEEME.md`**: el registro completo del trabajo, entrada por entrada, con lo que se
   midió, lo que falló y por qué. Es la referencia larga; este README es sólo la puerta.
 
@@ -72,8 +75,6 @@ con un caso real para que se vea la forma esperada.
   (`extraer_primitivos.py`, `extract_sm.py`): para esos hay que poner el archivo al
   lado. Las series que de ahí salen ya están exportadas en los `.json` del repositorio,
   así que el motor corre sin ellos.
-- **Las normas NIIF y CINIIF** (`normas/`), tal como las publica el organismo: también
-  material de terceros.
 
 ## Una limitación conocida
 
